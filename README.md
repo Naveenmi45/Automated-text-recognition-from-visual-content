@@ -1,4 +1,4 @@
-# Automated-text-recognition-from-visual-content
+# Automatic_text_recognition
 # Project Aim
 
 The project aims to develop a computer vision system capable of accurately extracting characters from visual and image data using the flask and OpenCV library.
